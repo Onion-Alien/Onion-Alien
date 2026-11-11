@@ -14,4 +14,6 @@
 
 **[Onion Pocket](https://github.com/Onion-Alien/onion-pocket)**: your Onion Board pads on your phone. Scan the QR code and tap.
 
-They're free. Download them at **[onionalien.com](https://onionalien.com)**.
+**[Onion Peel](https://github.com/Onion-Alien/onion-peel)**: peel a piece off your screen. Press Win + Shift + S, pick an area, and it's on the clipboard. No window, no history, no network.
+
+They're free. Download them at **[onionalien.com](https://onionalien.com)** (Onion Peel: from its [releases page](https://github.com/Onion-Alien/onion-peel/releases/latest)).
