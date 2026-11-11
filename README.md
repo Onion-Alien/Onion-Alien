@@ -5,15 +5,12 @@
   </picture>
 </a></p>
 
+<p><a href="https://github.com/Onion-Alien/onion-board"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/board-light.svg" /><img src="./assets/board-dark.svg" width="100%" alt="Onion Board: a soundboard for Discord and games. It plays through the mic you already use, so there's no virtual cable to set up." /></picture></a></p>
 
-**[Onion Board](https://github.com/Onion-Alien/onion-board)**: a soundboard for Discord and games. It plays through the mic you already use, so there's no virtual cable to set up.
+<p><a href="https://github.com/Onion-Alien/onion-watch"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/watch-light.svg" /><img src="./assets/watch-dark.svg" width="50%" alt="Onion Watch, an Onion Board add-on: plays a sound when something shows up in your game, even while you're alt-tabbed." /></picture></a><a href="https://github.com/Onion-Alien/onion-pocket"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/pocket-light.svg" /><img src="./assets/pocket-dark.svg" width="50%" alt="Onion Pocket, an Onion Board add-on: your Onion Board pads on your phone. Scan the QR code and tap." /></picture></a></p>
 
-**[Onion Watch](https://github.com/Onion-Alien/onion-watch)**: plays a sound when something shows up in your game, even while you're alt-tabbed.
+<p><picture><source media="(prefers-color-scheme: light)" srcset="./assets/label-apps-light.svg" /><img src="./assets/label-apps-dark.svg" width="100%" alt="More free apps" /></picture></p>
 
-**[Onion Launcher](https://github.com/Onion-Alien/onion-launcher)**: your apps, one key away. Press Win + ` and a small box of your favourite apps pops up next to the mouse.
+<p><a href="https://github.com/Onion-Alien/onion-launcher"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/launcher-light.svg" /><img src="./assets/launcher-dark.svg" width="50%" alt="Onion Launcher: your apps, one key away. Press Win + ` and they pop up next to the mouse." /></picture></a><a href="https://github.com/Onion-Alien/onion-peel"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/peel-light.svg" /><img src="./assets/peel-dark.svg" width="50%" alt="Onion Peel: peel a piece off your screen. Win + Shift + S, pick an area, it's on the clipboard." /></picture></a></p>
 
-**[Onion Pocket](https://github.com/Onion-Alien/onion-pocket)**: your Onion Board pads on your phone. Scan the QR code and tap.
-
-**[Onion Peel](https://github.com/Onion-Alien/onion-peel)**: peel a piece off your screen. Press Win + Shift + S, pick an area, and it's on the clipboard. No window, no history, no network.
-
-They're free. Download them at **[onionalien.com](https://onionalien.com)** (Onion Peel: from its [releases page](https://github.com/Onion-Alien/onion-peel/releases/latest)).
+They're all free. Download them at **[onionalien.com](https://onionalien.com)**.
