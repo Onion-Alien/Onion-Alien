@@ -10,6 +10,8 @@
 
 **[Onion Watch](https://github.com/Onion-Alien/onion-watch)**: plays a sound when something shows up in your game, even while you're alt-tabbed.
 
+**[Onion Launcher](https://github.com/Onion-Alien/onion-launcher)**: your apps, one key away. Press Win + ` and a small box of your favourite apps pops up next to the mouse.
+
 **[Onion Pocket](https://github.com/Onion-Alien/onion-pocket)**: your Onion Board pads on your phone. Scan the QR code and tap.
 
 They're free. Download them at **[onionalien.com](https://onionalien.com)**.
