@@ -1,10 +1,3 @@
-<p><a href="https://onionalien.com">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-    <img src="./assets/header-dark.svg" width="100%" alt="onion alien: one dev making free software. onionalien.com" />
-  </picture>
-</a></p>
-
 <p><a href="https://github.com/Onion-Alien/onion-board"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/board-light.svg" /><img src="./assets/board-dark.svg" width="100%" alt="Onion Board: a soundboard for Discord and games. It plays through the mic you already use, so there's no virtual cable to set up." /></picture></a></p>
 
 <p><a href="https://github.com/Onion-Alien/onion-watch"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/watch-light.svg" /><img src="./assets/watch-dark.svg" width="50%" alt="Onion Watch, an Onion Board add-on: plays a sound when something shows up in your game, even while you're alt-tabbed." /></picture></a><a href="https://github.com/Onion-Alien/onion-pocket"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/pocket-light.svg" /><img src="./assets/pocket-dark.svg" width="50%" alt="Onion Pocket, an Onion Board add-on: your Onion Board pads on your phone. Scan the QR code and tap." /></picture></a></p>
